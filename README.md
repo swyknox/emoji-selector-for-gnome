@@ -8,7 +8,7 @@ en:
 This is a fork of https://github.com/maoschanz/emoji-selector-for-gnome for the addition of the Portuguese language to the search engine for emojis!
 
 pt:
-Esse é um fork de https://github.com/maoschanz/emoji-selector-for-gnome para a adição da lingua portuguesa so sistema de busca por emojis!
+Esse é um fork de https://github.com/maoschanz/emoji-selector-for-gnome para a adição da lingua portuguesa ao sistema de busca por emojis!
 
 ## Features
 
