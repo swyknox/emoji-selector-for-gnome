@@ -3,7 +3,12 @@
 This GNOME shell extension provides a searchable popup menu displaying most emojis ; Clicking on an emoji copies it to your clipboard.
 
 ## Info
-This is a fork of https://github.com/maoschanz/emoji-selector-for-gnome/ for the addition of the Portuguese language to the search engine for emojis!
+
+en:
+This is a fork of https://github.com/maoschanz/emoji-selector-for-gnome for the addition of the Portuguese language to the search engine for emojis!
+
+pt:
+Esse é um fork de https://github.com/maoschanz/emoji-selector-for-gnome para a adição da lingua portuguesa so sistema de busca por emojis!
 
 ## Features
 
